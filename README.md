@@ -4,8 +4,8 @@ Este repositorio contiene una colección de ejercicios realizados en HTML organi
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Introdución    |
-| 2 | Hoja de vida |
+| 1 | [Introdución](Dia1/README.md)|
+| 2 | [Hoja de vida](Dia2/index.html) |
 
 
 ## Estructura del repositorio
@@ -19,10 +19,10 @@ Este repositorio contiene una colección de ejercicios realizados en HTML organi
 
 ## Cómo usar este repositorio
 
-1. Clona el repositorio en tu máquina local:
-   git clone https://github.com/httml-juandvs/HTML_S1_VargasJuan_
-
-   Hecho por Juan David Vargas Soto
+```1. Abre la terminal de linux```
+```2. Escribe este comando: git clone https://github.com/httml-juandvs/HTML_S1_VargasJuan_```
+    
+Hecho por Juan David Vargas Soto
 
 <!-- **Día 3 - CRUD**  
   Ejercicio de implementación del CRUD (Crear, Leer, Actualizar y Eliminar) en Python.
