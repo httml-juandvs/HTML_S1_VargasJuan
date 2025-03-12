@@ -4,8 +4,8 @@ Este repositorio contiene una colección de ejercicios realizados en HTML organi
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Introdución          |
-| 2 | Hoja de vida |
+| 1 | [Introdución](Dia 1/README.md)        |
+| 2 | [Hoja de vida](Dia 2/index.html) |
 
 
 ## Estructura del repositorio
