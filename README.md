@@ -4,8 +4,8 @@ Este repositorio contiene una colección de ejercicios realizados en HTML organi
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | [Introdución](Dia 1/README.md)        |
-| 2 | [Hoja de vida](Dia 2/index.html) |
+| 1 | Introdución    |
+| 2 | Hoja de vida |
 
 
 ## Estructura del repositorio
@@ -20,7 +20,7 @@ Este repositorio contiene una colección de ejercicios realizados en HTML organi
 ## Cómo usar este repositorio
 
 1. Clona el repositorio en tu máquina local:
-   git clone https://github.com/httml-juandvs/Python_S1_VargasJuan_
+   git clone https://github.com/httml-juandvs/HTML_S1_VargasJuan_
 
    Hecho por Juan David Vargas Soto
 
