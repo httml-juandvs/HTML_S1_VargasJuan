@@ -1,0 +1,28 @@
+.tabla{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: lightgoldenrodyellow;
+    justify-content: center;
+}
+
+
+#fotoperfil{
+    border-radius: 100%;
+    border-width: 2px;
+    border-style: solid;
+    justify-content: center;
+}
+
+body{
+    background-color: bisque;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.juan{
+    border: 2px solid black;
+}
