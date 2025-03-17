@@ -1,17 +1,194 @@
 body {
     background-color: black;
 }
-#fondo{
+
+.fondo {
     margin: auto;
 }
-#title{
+
+.title {
     color: beige;
     text-align: center;
     margin-top: -700px;
 }
-#lupa{
-    margin-top: -1000px;
-    margin-left: 63px;
-    width: 36px;
-    height: 50px;
+
+.lupa {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.boton {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    border-radius: 15px;
+    background: #ffffff;
+    padding: 20px;
+    width: 200px;
+    height: 100x;
+}
+
+.logo {
+    position: absolute;
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+}
+
+.texto1 {
+    position: absolute;
+    text-align: center;
+    top: 517px;
+    left: 500px;
+    width: 1151px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+.texto2 {
+    position: absolute;
+    text-align: center;
+    top: 600px;
+    left: 450px;
+    width: 1151px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    opacity: 0.8;
+}
+
+.boton2 {
+
+    position: absolute;
+    top: 787px;
+    left: 850px;
+    width: 360px;
+    height: 40px;
+    border-radius: 80px;
+    background: #ffffff;
+    padding: 20px;
+    width: 200px;
+    height: 100x;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.btazul {
+    position: absolute;
+    text-align: center;
+    left: 70px;
+}
+
+.btazul2 {
+    position: absolute;
+    text-align: center;
+    border-radius: 110px;
+    background: #00A8E1;
+    top: 1800px;
+    left: 60px;
+    width: 1792px;
+    height: 600px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.textico {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+.btazul3 {
+    position: absolute;
+    text-align: center;
+    border-radius: 110px;
+    background: #00A8E1;
+    top: 2450px;
+    left: 60px;
+    width: 1792px;
+    height: 567px;
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: Arial, sans-serif;
+}
+
+.compatible {
+    position: absolute;
+    text-align: center;
+    top: 3127px;
+    left: 418px;
+    width: 1118px;
+    height: 125px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+.there {
+    position: absolute;
+    text-align: center;
+    top: 3296px;
+    left: 181px;
+    width: 1544px;
+    height: 99px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+.flechadr {
+    top: 3689px;
+    left: 305px;
+    width: 19px;
+    height: 27px;
+    transform: matrix(0.03, 1, -1, 0.03, 0, 0);
+}
+
+.iphone {
+    position: absolute;
+    top: 3606px;
+    left: 386px;
+    width: 256px;
+    height: 219px;
+    display: flex;
+}
+
+.mac {
+    position: absolute;
+    top: 3440px;
+    left: 685px;
+    width: 584px;
+    height: 534px;
+}
+
+.pc {
+    position: absolute;
+    top: 3587px;
+    left: 1261px;
+    width: 271px;
+    height: 238px;
+    ;
+}
+
+.terminos {
+    position: absolute;
+    top: 4088px;
+    left: 543px;
+    width: 831px;
+    height: 25px;
 }
