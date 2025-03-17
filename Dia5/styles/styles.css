@@ -20,15 +20,34 @@ body {
 
 .boton {
     position: absolute;
-    top: 8px;
-    right: 16px;
+    top: 30px;
+    left: 1695px;
+    width: 300px;
+    height: 70px;
     border-radius: 15px;
     background: #ffffff;
-    padding: 20px;
-    width: 200px;
-    height: 100x;
+}
+#boton{
+    width: 300px;
+    height: 70px;
+    border-radius: 15px;
+    font-size: 30px;
 }
 
+#boton2{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+}
+
+.logear{
+    top: 48px;
+left: 1773px;
+width: 50px;
+height: 20px;
+position: absolute;
+font-size: 24px;
+}
 .logo {
     position: absolute;
     top: 227px;
@@ -65,7 +84,6 @@ body {
 }
 
 .boton2 {
-
     position: absolute;
     top: 787px;
     left: 850px;
