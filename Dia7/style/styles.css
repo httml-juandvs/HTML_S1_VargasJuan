@@ -1,0 +1,144 @@
+.cuerpo {
+    background: linear-gradient(rgba(255, 255, 255, 1), rgba(230, 230, 230, 1), rgba(128, 128, 128, 1));
+    margin: 0;
+    width: 1920px;
+    height: 1080px;
+    background-repeat: no-repeat;
+}
+
+.cuadro_uno {
+    position: relative;
+    top: 130px;
+    left: 190px;
+    width: 1400px;
+    height: 800px;
+    border: 1px solid #707070;
+    opacity: 1;
+    background-color: #fdfeff;
+}
+
+.Metrolínea_logo {
+    position: absolute;
+    top: 200px;
+    left: 270px;
+    width: 196px;
+    height: 44px;
+}
+
+.tarjetap {
+    position: absolute;
+    top: 280px;
+    left: 340px;
+    width: 884px;
+    height: 497px;
+
+}
+
+.cuadrito {
+    position: absolute;
+    width: 160px;
+    height: 114px;
+    top: 780px;
+    left: 1280px;
+}
+
+.rec {
+    position: absolute;
+    top: 140px;
+    left: 1490px;
+}
+
+.minilogo {
+    position: absolute;
+    top: 800px;
+    left: 1295px;
+    width: 129px;
+    height: 29px;
+}
+
+.lupa {
+    position: absolute;
+    top: 200px;
+    left: 1320px;
+    width: 27px;
+    height: 27px;
+}
+ 
+.carrito{
+    position: absolute;
+    top: 200px;
+    left: 1440px;
+    width: 40px;
+    height: 30px;
+}
+
+
+
+.comprar{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 830px;
+    left: 1307px;
+
+}
+
+.textouno{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    font-size: 40px;
+    top: 760px;
+    left: 260px;
+}
+
+.textodos{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 830px;
+    left: 265px;
+}
+
+.hvinculo{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 160px;
+    left: 1140px;
+    color: black;
+}
+.cpratjta{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 197px;
+    left: 840px;
+}
+
+.flechauno{
+    position: absolute;
+    top: 180px;
+    left: 1532px;
+    font-size: 40px;
+}
+
+.menu{
+    position: absolute;
+    top: 450px;
+    left: 1532px;
+    font-size: 40px;
+}
+
+.flechados{
+    position: absolute;
+    top: 880px;
+    left: 1532px;
+    font-size: 40px;
+}
+
+.cantidad{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    position: absolute;
+    top: 300px;
+    left: 1497px;
+    color:white ;
+}
