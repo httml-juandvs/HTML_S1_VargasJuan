@@ -19,24 +19,24 @@ body {
 
 .nombre {
     font-family: "B";
-    font-size: 60px;
-    color: white;
-    top: 20px;
-    left: 620px;
-    width: 196px;
-    height: 44px;
-    position: relative;
-}
-
-.home {
-    font-family: "O";
     font-size: 30px;
     color: white;
-    top: -125px;
-    left: 2340px;
+    top: 20px;
+    left: 280px;
     width: 196px;
     height: 44px;
-    position: relative;
+    position: absolute;
+}
+
+.home{
+    font-family: "O";
+    font-size: 15px;
+    color: white;
+    top: 90px;
+    left: 1300px;
+    width: 196px;
+    height: 44px;
+    position: absolute;
 }
 
 .home:hover {
@@ -45,13 +45,13 @@ body {
 
 .about {
     font-family: "O";
-    font-size: 30px;
+    font-size: 15px;
     color: white;
-    top: -199px;
-    left: 2490px;
+    top: 90px;
+    left: 1400px;
     width: 196px;
     height: 44px;
-    position: relative;
+    position: absolute;
 }
 
 .about:hover {
@@ -60,13 +60,13 @@ body {
 
 .menu {
     font-family: "O";
-    font-size: 30px;
+    font-size: 15px;
     color: white;
-    top: -272px;
-    left: 2650px;
+    top: 90px;
+    left: 1500px;
     width: 196px;
     height: 44px;
-    position: relative;
+    position: absolute;
 }
 
 .menu:hover {
@@ -75,76 +75,81 @@ body {
 
 .contact {
     font-family: "O";
-    font-size: 30px;
+    font-size: px;
     color: white;
-    top: -346px;
-    left: 2800px;
+    top: 90px;
+    left: 1600px;
     width: 196px;
     height: 44px;
-    position: relative;
+    position: absolute;
 }
+
 
 .contact:hover {
     text-decoration: underline;
 }
 
 .texto1 {
+    position:absolute;
     color: white;
-    font-size: 120px;
-    margin-top:auto;
-    left: 1430px;
+    font-size: 130px;
+    top: 200px;
+    left: 500px; 
     font-family: "P";
     text-align:center;
-    position:relative;
+    
 }
 
 
 .cafe {
-    position: relative;
-    left: -99px;
-    top: -900px;
-    width:4000px;
+    position: absolute;
+    left: -500px;
+    top: 210px;
+    width:3000px;
 }
 .texto2 {
     text-align: center;
     color: white;
     font-size: 100px;
-    top: 1100px;
-    left: 1350px;
+    top: 1500px;
+    left: 495px;
     font-family: "P";
-    position: relative;
+    position: absolute;
 }
 
 .boton1{
     color: white;
     position:absolute;
-    left: 1700px;
-    top: 2200px;
+    left: 800px;
+    top: 1750px;
     
 }
-
 button{
-    width: 400px;
-    height: 100px;
+    width: 300px;
+    height: 70px;
     font-family: "O";
-    font-size: 40px;
+    font-size: 30px;
     background-color: #ce9e5a;
 }
 
+
+
+
 .img1{
     position: absolute;
-    top: 2800px;
-    width: 2000px;
-    left: 150px;
+    top: 1900px;
+    width: 1000px;
+    left: 30px;
 }
+
 
 .history{
     font-family: "P";
-    font-size: 80px;
+    font-size: 50px;
     color: white;
-    left: 2500px;
-    top: -400px;
-    position: relative;
+    left: 1220px;
+    top: 1950px;
+    position: absolute;
 }
 
 .texto3{
@@ -152,70 +157,177 @@ button{
     font-weight: 100;
     font-size: 35px;
     color: white;
-    left: 2500px;
-    top: -500px;
-    position: relative;
+    left: 1250px;
+    top: 2120px;
+    position: absolute;
 }
+
 .boton2{
     color: rgb(0, 0, 0);
-    position: relative;
-    left: 2500px;
-    top: -500px;
+    position: absolute;
+    left: 1270px;
+    top: 2400px;
+
 }
 
 .img2{
     position: absolute;
-    top: 4300px;
-    width: 1000px;
-    left: 2500px;
+    top: 2850px;
+    width: 800px;
+    left: 1200px;
 }
 .texto4{
     font-family: "P";
     font-weight: 100;
-    font-size: 60px;
+    font-size: 50px;
     color: white;
-    left: 800px;
-    top: 100px;
-    position: relative;
+    left: 200px;
+    top: 2850px;
+    position: absolute;
+    width: 900px;
 }
 
 .texto5{
     font-family: "O";
     font-weight: 100;
-    font-size: 35px;
+    font-size: 30px;
     color: white;
-    left: 800px;
-    top: 100px;
-    position: relative;
+    left: 200px;
+    top: 3370px;
+    position: absolute;
 }
 .boton3{
     color: rgb(0, 0, 0);
-    position: relative;
-    left: 800px;
-    top: 100px;
+    position: absolute;
+    left: 200px;
+    top: 3500px;
 }
 .texto6{
     font-family: "P";
     font-weight:lighter;
-    font-size: 150px;
+    font-size: 130px;
     color: white;
-    left: 400px;
-    top: 350px;
-    position: relative;
+    left: 100px;
+    top: 3700px;
+    position: absolute;
 }
 .img3{
     position: absolute;
-    top: 5900px;
+    top: 7000px;
     width: 300px;
     left: 1000px;
 }
 .texto7{
-    font-family: "O";
+    font-family: "B";
     font-weight: 100;
-    font-size: 35px;
+    font-size: 50px;
     color: white;
-    left: 1060px;
-    top: 900px;
-    position: relative;
+    left: 540px;
+    top: 4400px;
+    position: absolute;
     border: #ffffff 90px;
+}
+
+.Espresso{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4600px;
+    font-size: 40px;
+
+}
+
+.cuadro1{
+    position: absolute;
+    height: 680px;
+    width: 480px;
+    border: 2px solid#ce9e5a;
+    top: 3270px;
+    left: 200px;     
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
++
+}
+
+
+
+.linep{
+    position: absolute;
+    text-align: center;
+    background: #ffffff;
+    top: 2090px;
+    left: 1080px;
+    width: 130px;
+    height: 3px;
 }
