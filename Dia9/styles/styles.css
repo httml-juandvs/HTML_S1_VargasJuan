@@ -1,0 +1,221 @@
+@font-face {
+    font-family: "B";
+    src: url('../fonts/Barlow-Bold.ttf');
+}
+
+@font-face {
+    font-family: "O";
+    src: url('../fonts/open-sauce.one-semibold.ttf');
+}
+
+@font-face {
+    font-family: "p";
+    src: url('../fonts/PlayfairDisplay-Black.ttf');
+}
+
+body {
+    background-color: black;
+}
+
+.nombre {
+    font-family: "B";
+    font-size: 60px;
+    color: white;
+    top: 20px;
+    left: 620px;
+    width: 196px;
+    height: 44px;
+    position: relative;
+}
+
+.home {
+    font-family: "O";
+    font-size: 30px;
+    color: white;
+    top: -125px;
+    left: 2340px;
+    width: 196px;
+    height: 44px;
+    position: relative;
+}
+
+.home:hover {
+    text-decoration-line: underline;
+}
+
+.about {
+    font-family: "O";
+    font-size: 30px;
+    color: white;
+    top: -199px;
+    left: 2490px;
+    width: 196px;
+    height: 44px;
+    position: relative;
+}
+
+.about:hover {
+    text-decoration: underline;
+}
+
+.menu {
+    font-family: "O";
+    font-size: 30px;
+    color: white;
+    top: -272px;
+    left: 2650px;
+    width: 196px;
+    height: 44px;
+    position: relative;
+}
+
+.menu:hover {
+    text-decoration: underline;
+}
+
+.contact {
+    font-family: "O";
+    font-size: 30px;
+    color: white;
+    top: -346px;
+    left: 2800px;
+    width: 196px;
+    height: 44px;
+    position: relative;
+}
+
+.contact:hover {
+    text-decoration: underline;
+}
+
+.texto1 {
+    color: white;
+    font-size: 120px;
+    margin-top:auto;
+    left: 1430px;
+    font-family: "P";
+    text-align:center;
+    position:relative;
+}
+
+
+.cafe {
+    position: relative;
+    left: -99px;
+    top: -900px;
+    width:4000px;
+}
+.texto2 {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    top: 1100px;
+    left: 1350px;
+    font-family: "P";
+    position: relative;
+}
+
+.boton1{
+    color: white;
+    position:absolute;
+    left: 1700px;
+    top: 2200px;
+    
+}
+
+button{
+    width: 400px;
+    height: 100px;
+    font-family: "O";
+    font-size: 40px;
+    background-color: #ce9e5a;
+}
+
+.img1{
+    position: absolute;
+    top: 2800px;
+    width: 2000px;
+    left: 150px;
+}
+
+.history{
+    font-family: "P";
+    font-size: 80px;
+    color: white;
+    left: 2500px;
+    top: -400px;
+    position: relative;
+}
+
+.texto3{
+    font-family: "O";
+    font-weight: 100;
+    font-size: 35px;
+    color: white;
+    left: 2500px;
+    top: -500px;
+    position: relative;
+}
+.boton2{
+    color: rgb(0, 0, 0);
+    position: relative;
+    left: 2500px;
+    top: -500px;
+}
+
+.img2{
+    position: absolute;
+    top: 4300px;
+    width: 1000px;
+    left: 2500px;
+}
+.texto4{
+    font-family: "P";
+    font-weight: 100;
+    font-size: 60px;
+    color: white;
+    left: 800px;
+    top: 100px;
+    position: relative;
+}
+
+.texto5{
+    font-family: "O";
+    font-weight: 100;
+    font-size: 35px;
+    color: white;
+    left: 800px;
+    top: 100px;
+    position: relative;
+}
+.boton3{
+    color: rgb(0, 0, 0);
+    position: relative;
+    left: 800px;
+    top: 100px;
+}
+.texto6{
+    font-family: "P";
+    font-weight:lighter;
+    font-size: 150px;
+    color: white;
+    left: 400px;
+    top: 350px;
+    position: relative;
+}
+.img3{
+    position: absolute;
+    top: 5900px;
+    width: 300px;
+    left: 1000px;
+}
+.texto7{
+    font-family: "O";
+    font-weight: 100;
+    font-size: 35px;
+    color: white;
+    left: 1060px;
+    top: 900px;
+    position: relative;
+    border: #ffffff 90px;
+}
