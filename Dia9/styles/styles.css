@@ -118,7 +118,7 @@ body {
 }
 
 .boton1{
-    color: white;
+    color: rgb(5, 5, 5);
     position:absolute;
     left: 800px;
     top: 1750px;
@@ -155,7 +155,7 @@ button{
 .texto3{
     font-family: "O";
     font-weight: 100;
-    font-size: 35px;
+    font-size: 30px;
     color: white;
     left: 1250px;
     top: 2120px;
@@ -169,6 +169,12 @@ button{
     top: 2400px;
 
 }
+
+.Partesup{
+    position: relative;
+    text-align: center;
+}
+
 
 .img2{
     position: absolute;
@@ -213,10 +219,22 @@ button{
 }
 .img3{
     position: absolute;
-    top: 7000px;
+    top: 4100px;
     width: 300px;
-    left: 1000px;
+    left: 470px;
 }
+
+.Partemid{
+    position: relative;
+    
+}
+
+.mocha{
+    position: relative;
+    top: -200px;
+    left: -300px;
+}
+
 .texto7{
     font-family: "B";
     font-weight: 100;
@@ -234,93 +252,34 @@ button{
     position: absolute;
     left: 500px;
     top: 4600px;
-    font-size: 40px;
+    font-size: 30px;
 
 }
-
+.Chocolate
+{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4675px;
+    font-size: 30px;
+}
+.Steamed{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4750px;
+    font-size: 30px;
+}
 .cuadro1{
     position: absolute;
-    height: 680px;
-    width: 480px;
+    height: 780px;
+    width: 500px;
     border: 2px solid#ce9e5a;
-    top: 3270px;
-    left: 200px;     
-    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ;
-+
+    top: 4300px;
+    left: 360px;     
 }
-
-
 
 .linep{
     position: absolute;
@@ -329,5 +288,153 @@ button{
     top: 2090px;
     left: 1080px;
     width: 130px;
+    height: 3px;
+}
+.boton4{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 460px;
+    top: 4980px;
+}
+
+
+
+.mocha2{
+    position: relative;
+    top: -200px;
+    left: 350px;
+}
+.texto8{
+    font-family: "B";
+    font-weight: 100;
+    font-size: 50px;
+    color: white;
+    left: 540px;
+    top: 4400px;
+    position: absolute;
+    border: #ffffff 90px;
+}
+
+.Espresso2{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4600px;
+    font-size: 30px;
+
+}
+.Chocolate2
+{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4675px;
+    font-size: 30px;
+}
+
+.Steamed2{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4750px;
+    font-size: 30px;
+}
+.cuadro2{
+    position: absolute;
+    height: 780px;
+    width: 500px;
+    border: 2px solid#ce9e5a;
+    top: 4300px;
+    left: 360px;     
+}
+
+.boton5{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 460px;
+    top: 4980px;
+}
+.img4{
+    position: absolute;
+    top: 4100px;
+    width: 300px;
+    left: 470px;
+}
+
+.mocha3{
+    position: relative;
+    top: -200px;
+    left:1000px;
+}
+.texto9{
+    font-family: "B";
+    font-weight: 100;
+    font-size: 50px;
+    color: white;
+    left: 540px;
+    top: 4400px;
+    position: absolute;
+    border: #ffffff 90px;
+}
+
+.Espresso3{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4600px;
+    font-size: 30px;
+
+}
+.Chocolate3
+{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4675px;
+    font-size: 30px;
+}
+
+.Steamed3{
+    font-family: "O";
+    color: #ffffff;
+    position: absolute;
+    left: 500px;
+    top: 4750px;
+    font-size: 30px;
+}
+.cuadro3{
+    position: absolute;
+    height: 780px;
+    width: 500px;
+    border: 2px solid#ce9e5a;
+    top: 4300px;
+    left: 360px;     
+}
+
+.boton6{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 460px;
+    top: 4980px;
+}
+.img5{
+    position: absolute;
+    top: 4100px;
+    width: 300px;
+    left: 470px;
+}
+
+.linep2{
+    position: absolute;
+    text-align: center;
+    background: #ffffff;
+    top: 5280px;
+    left: 1080px;
+    width: 300px;
     height: 3px;
 }

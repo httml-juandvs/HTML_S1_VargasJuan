@@ -1,0 +1,103 @@
+body{
+    background-color: #0F1323
+}
+.elemt{
+    display:grid;
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    gap: 5px;         
+    margin: 4%;
+    grid-template-columns: auto auto;
+    text-align: center;
+    border-radius: 1%;
+}
+.elemt > div{
+    background-color:transparent;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.item1{
+    border-radius: 5px;
+    gap: 10px;
+    width: 102%;
+}
+.item2{
+    border-radius: 3px;
+    gap: 5px;
+    width: 102%;
+}
+.item3{
+    border-radius: 3px;
+    gap: 5px;
+    width: 102%;
+}
+.item4{
+    border-radius: 3px;
+    gap: 30px;
+    width: 102%;
+}
+
+.ele1{
+    grid-column-start:1;
+    grid-column-end: 1;
+}
+.ele2{
+    grid-column-start:2;
+    grid-column-end:2;
+}
+.ele3{
+    grid-column-start:1;
+    grid-row-end: 3;
+}
+.ele4{
+    grid-column-start: 1;
+    grid-column-end:4;
+}
+
+.elemt2{
+    display:grid;
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    gap: 5px;         
+    margin: 4%;
+    grid-template-columns: auto auto;
+    text-align: center;
+    border-radius: 1%;
+}
+.elemt2 > div{
+    background-color:transparent;
+    padding: 5px;
+    text-align: center;
+}
+.item5{
+        border-radius: 3px;
+        gap: 10px;
+        width: 100%;
+    }
+.item6{
+        border-radius: 3px;
+        gap: 10px;
+        width: 100%;
+    }
+.item7{
+        border-radius: 3px;
+        gap: 10px;
+        width: 100%;
+    }
+    
+.ele5 {
+        grid-row-start: 1;
+        grid-row-end:1;
+    }
+.ele6{
+ grid-row-start: 2;
+ grid-row-end: 1;
+    }
+.ele7{
+    grid-column-start: 1;
+    grid-column-end: 1;   
+}
