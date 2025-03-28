@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    background-color: black;
+    image-rendering: pixelated;
+}
+
+#fondo{
+    background: url('../img/fondo.png');
+    animation: movebg 6s linear infinite;
+    text-align: center;
+    height: 600px;
+    width: auto;
+}
+#moco{
+    width: 2000px;
+    height: 3000px;
+    background: url('../img/moco.svg');
+    margin: auto;
+    position: absolute;
+    bottom: 30px;
+    animation: move .28s steps(6) infinite;
+
+}
+@keyframes move{
+    from{background-position: 0px;}
+    to{background-position: -672px;}
+}
